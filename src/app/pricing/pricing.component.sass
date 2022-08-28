@@ -1,0 +1,39 @@
+@mixin card($backgroundGradient)
+    border-radius: 10px
+    background-image: linear-gradient($backgroundGradient)
+    display: flex
+    flex-direction: column
+    justify-content: space-evenly
+    align-items: center
+    text-align: center
+    height: 80%
+    color: #000
+
+.pricing
+    width: 100%
+    min-height: 70vh
+    height: auto
+    padding: 10px 50px
+    display: grid
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+    place-items: center
+    gap: 30px
+
+    .card, .card-2, .card-3
+        h1
+            font-size: 3.3rem
+            font-weight: 900
+        h2
+            font-size: 2.5rem
+            font-weight: 500
+            font-style: italic
+        p
+            font-size: 1.2rem
+            font-weight: 200
+            
+    .card
+        @include card((to bottom, #63d0ee 0%, #439bb4 100%))
+    .card-2
+        @include card((to bottom, #e963ee 0%, #b443b4 100%))
+    .card-3
+        @include card((to bottom, #6cee63 0%, #4bb443 100%))

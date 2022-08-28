@@ -1,0 +1,29 @@
+{
+    "LINK_ONE" : "INICIO",
+    "LINK_TWO" : "SOBRE NOSOTROS",
+    "LINK_THREE" : "SERVICIOS",
+
+
+    "TITLE_HOME": "Manera creativa de aterrizar tu página",
+    "DESCRIPTION_HOME": "construye tus sitios web con nosotros generamos plantillas generales con internacionalización construida en angular y sass contribuye con nosotros puedes visitar mi github john gualteros para ver más ejemplos",
+    "BUTTON_HOME" : "Empezar",
+
+    "CARD_01_TITLE": "Prueba gratis",
+    "CARD_01_DESCRIPTION": "es muy fácil de usar puedes obtener una gran ventaja sobre los demás contáctanos",
+
+    "CARD_02_TITLE": "Fácil de usar",
+    "CARD_02_DESCRIPTION": "puedes tener ofertas si eres un cliente frecuente solo danos el diseño y los construiremos",
+
+    "CARD_03_TITLE": "Soporte 24/7",
+    "CARD_03_DESCRIPTION": "Estaremos pendientes todo el tiempo, colaborando y desarrollando las necesidades.",
+
+    "PRICING_01_TITLE": "Prueba gratis",
+    "PRICING_01_DESCRIPTION": "en este caso puede obtener un producto en el 20% y soporte de un mes",
+
+    "PRICING_02_TITLE": "Paquete estándar",
+    "PRICING_02_DESCRIPTION": "el paquete estándar es un grupo de desarrolladores formado por 5 full stacks especializados en angular y django",
+
+    "PRICING_03_TITLE": "paquete premium",
+    "PRICING_03_DESCRIPTION": "obtendrá todos los beneficios anteriores más 4 desarrolladores más e implementará en un host"
+
+}

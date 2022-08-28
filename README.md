@@ -1,5 +1,12 @@
 # LandingPageAngularMultiLanguages
 
+![](./src/angular_app_01.png)
+![](./src/angular_app_02.png)
+![](./src/angular_app_03.png)
+![](./src/angular_app_04.png)
+![](./src/angular_app_05.png)
+![](./src/angular_app_06.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server

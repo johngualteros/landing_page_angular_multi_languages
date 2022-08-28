@@ -1,0 +1,37 @@
+@mixin button()
+    background-color: #30353C
+    color: #fff
+    font-size: 1.2rem
+    font-weight: bold
+    padding: 15px 50px
+    border-radius: 100px
+    border: 1px solid #f3d5ac
+    transition-duration: 1s 
+
+    &:hover
+        background-image: linear-gradient(to right, #f3d5ac 0%, #b7827c 100%)
+        transition-duration: 1s
+        cursor: pointer
+
+.home
+    width: 100%
+    height: 100vh
+    display: grid
+    grid-template-columns: 50% auto
+    place-content: center
+
+    .container-info
+        display: flex
+        flex-direction: column
+        justify-content: space-evenly
+        align-items: flex-start
+        width: 90%
+
+        h1
+            font-size: 4rem
+            font-weight: 900
+        p
+            line-height: 25px
+
+        button
+            @include button()

@@ -1,0 +1,28 @@
+{
+    "LINK_ONE" : "HOME",
+    "LINK_TWO" : "ABOUT",
+    "LINK_THREE" : "PRICING",
+
+
+    "TITLE_HOME": "Creative way to Land your page",
+    "DESCRIPTION_HOME": "build your websites with us we generate general templates with internationalization built in angular and sass contribute with us you can visit my github johngualteros to see more examples",
+    "BUTTON_HOME" : "Get Started",
+
+    "CARD_01_TITLE": "Free Trail",
+    "CARD_01_DESCRIPTION": "it is very easy to use you can get great advantage over others contact us",
+
+    "CARD_02_TITLE": "Easy To Use",
+    "CARD_02_DESCRIPTION": "you can have offers if you are a frequent customer just give us the design and we will build them",
+
+    "CARD_03_TITLE": "24/7 Support",
+    "CARD_03_DESCRIPTION": "We will be pending all the time, collaborating and developing the needs",
+
+    "PRICING_01_TITLE": "Free Trial",
+    "PRICING_01_DESCRIPTION": "in this case you can get one product in the 20% and support one month",
+
+    "PRICING_02_TITLE": "Standard Pack",
+    "PRICING_02_DESCRIPTION": "the standard pack is a group of developers made up of 5 full stacks specialized in angular and django",
+
+    "PRICING_03_TITLE": "Premium pack",
+    "PRICING_03_DESCRIPTION": "you will get all the previous benefits plus 4 more developers and deploy on a host"
+}
